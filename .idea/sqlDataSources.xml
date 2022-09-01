@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="1255e62c-eded-46ed-a357-7ec98dc86771" name="Microsoft SQL Server Express 2019 Mapping">
+      <data-sources db="b77d3343-de6c-4add-9327-db6bcd2f814c" />
+    </mapping>
+  </component>
+</project>
